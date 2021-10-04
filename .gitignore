@@ -1,0 +1,8 @@
+*.zip
+P0267_RefImpl/
+*.swp
+*.osm
+!map.osm
+*.o
+draw.cpp
+test.cpp
